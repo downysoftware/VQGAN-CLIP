@@ -1,6 +1,6 @@
 # VQGAN-CLIP
 
-[<img src="https://github.com/downysoftware/VQGAN-CLIP/blob/main/data_prophecy_final_v2.png" slign="center"]
+<img src="https://github.com/downysoftware/VQGAN-CLIP/blob/main/data_prophecy_final_v2.png" align="center"></img>
 
 My personal copy of the popular VQGAN+CLIP Colab notebook by Katherine Crowson, custom modified for Data Prophecy.
 
